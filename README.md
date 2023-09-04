@@ -20,12 +20,10 @@ Project pengendali lingkungan tanaman cabai ini bertujuan untuk mengukur sirkula
 Pin yang digunakan komponen sensor dan output pada ESP32 yaitu :
 | Komponen | Pin     |
 | :-------- | :------- |
-| `DHT22` | `32` |
-| `LDR` | `34` |
-| `Soil Moisture` | `35` |
-| `Relay 1` | `5` |
-| `Relay 2` | `17` |
-| `LCD Nextion` | `0` |
+| `DHT22` | `D5` |
+| `LDR` | `A0` |
+| `Relay 1` | `D6` |
+| `Relay 2` | `D7` |
 
 ## Program ESP32
 ```c++
@@ -104,8 +102,9 @@ Tipe data sensor yang digunakan yaitu :
 | :-------- | :------- |
 | `DHT22` | `float` |
 | `LDR` | `int` |
-| `Soil Moisture` | `float` |
 
 ## Interface Aplikasi
 ![Logo](https://github.com/raffx29/Project-Pengendali-Lingkungan-Tanaman-Cabai-Berbasis-Nodemcu-ESP8266/blob/7b81c6247d91de6e42df07be5bd6e621551083d2/Lib/4.jpg)
 
+## Tampilan Alat
+![Logo]()

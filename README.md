@@ -1,5 +1,5 @@
 # Project-Pengendali-Lingkungan-Tanaman-Cabai-Berbasis-Nodemcu-ESP8266
-Project pengendali lingkungan tanaman cabai ini bertujuan untuk mengukur sirkulasi udara, memonitoring suhu, kelembaban dan intensitas cahaya yang membantu petani tanpa harus memperhatikan lingkungan tanaman cabai.
+Project pengendali lingkungan tanaman cabai ini bertujuan untuk mengukur sirkulasi udara, memonitoring suhu, kelembaban dan intensitas cahaya yang membantu petani dengan bantuan aplikasi blynk pada smartphone.
 
 ## Komponen Yang Digunakan
 **Mikrokontroler :**
@@ -109,9 +109,3 @@ Tipe data sensor yang digunakan yaitu :
 ## Interface Aplikasi
 ![Logo](https://github.com/raffx29/Project-Smart-Greenhouse/blob/7023ba70bec9769d1c439761c3b0e9c368770138/Lib/9.jpg)
 
-## Program Aplikasi
-![Logo](https://github.com/raffx29/Project-Smart-Greenhouse/blob/8dc61d599ebccf31e32524cc46457a2cb7a10615/Lib/6.jpg)
-![Logo](https://github.com/raffx29/Project-Smart-Greenhouse/blob/8dc61d599ebccf31e32524cc46457a2cb7a10615/Lib/7.jpg)
-
-## Database Google Firebase
-![Logo](https://github.com/raffx29/Project-Smart-Greenhouse/blob/b63ba998d72723995becf825e132150ddcd37892/Lib/8.jpg)

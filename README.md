@@ -103,8 +103,11 @@ Tipe data sensor yang digunakan yaitu :
 | `DHT22` | `float` |
 | `LDR` | `int` |
 
+## Tampilan Alat
+Tampilan alat pada siang hari
+![Logo](https://github.com/raffx29/Project-Pengendali-Lingkungan-Tanaman-Cabai-Berbasis-Nodemcu-ESP8266/blob/aa2689200c831728087c7c691350c3be4e9c6bfa/Lib/3.jpeg)
+Tampilan alat pada malam hari
+![Logo](https://github.com/raffx29/Project-Pengendali-Lingkungan-Tanaman-Cabai-Berbasis-Nodemcu-ESP8266/blob/aa2689200c831728087c7c691350c3be4e9c6bfa/Lib/2.jpeg)
+
 ## Interface Aplikasi
 ![Logo](https://github.com/raffx29/Project-Pengendali-Lingkungan-Tanaman-Cabai-Berbasis-Nodemcu-ESP8266/blob/7b81c6247d91de6e42df07be5bd6e621551083d2/Lib/4.jpg)
-
-## Tampilan Alat
-![Logo]()

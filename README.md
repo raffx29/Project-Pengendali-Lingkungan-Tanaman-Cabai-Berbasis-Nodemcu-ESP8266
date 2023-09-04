@@ -15,7 +15,7 @@ Project pengendali lingkungan tanaman cabai ini bertujuan untuk mengukur sirkula
 * Fan DC
 
 ## Skematik Rangkaian Komponen
-![Logo]()
+![Logo](https://github.com/raffx29/Project-Pengendali-Lingkungan-Tanaman-Cabai-Berbasis-Nodemcu-ESP8266/blob/fedd915a6f5ea8b3c35a751ad6a5a66cdadc6be5/Lib/1.jpg)
 
 Pin yang digunakan komponen sensor dan output pada ESP32 yaitu :
 | Komponen | Pin     |

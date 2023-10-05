@@ -25,7 +25,7 @@ Pin yang digunakan komponen sensor dan output pada ESP32 yaitu :
 | `Relay 1` | `D6` |
 | `Relay 2` | `D7` |
 
-## Program ESP32
+## Program NodeMcu 8266
 ```c++
 #define BLYNK_TEMPLATE_ID " YOUR_TEMPLATE"
 #define BLYNK_DEVICE_NAME "YOUR_DEVICE_NAME"
